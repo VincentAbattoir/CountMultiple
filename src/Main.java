@@ -7,7 +7,6 @@ public class Main {
         booleanArray = new boolean[127];
         char[] chars = returnCharacters();
         ifDuplicateExists(chars);
-
     }
 
     public void ifDuplicateExists(char[] showMe) {
